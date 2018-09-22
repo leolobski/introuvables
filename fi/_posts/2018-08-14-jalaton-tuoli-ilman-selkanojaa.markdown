@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: page_fi
 title:  "Jalaton tuoli ilman selkänojaa"
 categories: introuvables
 image: 4.png
-description: Yksinkertaisen nerokas muotoilu, joka tekee tämän tuolin säilyttämisestä suorastaan naurettavan helppoa.
+description: "Yksinkertaisen nerokas muotoilu, joka tekee tämän tuolin säilyttämisestä suorastaan naurettavan helppoa."
+translation-link: jalaton-tuoli-ilman-selkanojaa
+lang: fi
 ---
 Yksinkertaisen nerokas muotoilu, joka tekee tämän tuolin säilyttämisestä suorastaan naurettavan helppoa.
 ![jalaton-tuoli]({{ "/assets/images/4.png" | absolute_url }}){:width="400" .center-image }

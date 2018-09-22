@@ -1,15 +1,17 @@
 ---
-layout: default
+layout: default_en
 title: Products
-permalink: /products/
+permalink: en/products/
+translation-link: products
 ---
 
 <div class="mdl-grid">
   {% for post in site.posts %}
+  {% if post.lang == "en" %}
     <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-phone post-block">
       <a href="{{ post.url | prepend: site.baseurl }}">
         <div class="post-card mdl-shadow--2dp">
-          <img src="../assets/images/{{ post.image }}"/>
+          <img src="../../assets/images/{{ post.image }}"/>
           <div class="mdl-card__title">
             <h2 class="mdl-card__title-text">{{ post.title }}</h2>
           </div>
@@ -21,5 +23,6 @@ permalink: /products/
         </div>
       </a>
   </div>
+  {% endif %}
   {% endfor %}
 </div>

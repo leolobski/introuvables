@@ -1,9 +1,9 @@
 <div class="mdl-layout__drawer">
     <span class="mdl-layout-title">Menu</span>
     <nav class="mdl-navigation">
-        <a class="mdl-navigation__link" href="{{ site.baseurl }}/">Home</a>
-		<a class="mdl-navigation__link" href={{ "/products/" | prepend: site.baseurl }}>{{ "Products" }}</a>
-		<a class="mdl-navigation__link" href={{ "/about/" | prepend: site.baseurl }}>{{ "About" }}</a>
+        <a class="mdl-navigation__link" href="{{ site.baseurl_en }}/">Home</a>
+		<a class="mdl-navigation__link" href={{ "/products/" | prepend: site.baseurl_en }}>{{ "Products" }}</a>
+		<a class="mdl-navigation__link" href={{ "/about/" | prepend: site.baseurl_en }}>{{ "About" }}</a>
 <!--        {% for page in site.pages %}
         {% if page.title %}
         <a class="mdl-navigation__link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
