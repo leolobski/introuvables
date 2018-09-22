@@ -8,4 +8,4 @@ translation-link: hannan-kiinniottovaline-koiraa-varten
 lang: en
 ---
 Kuuluuko hännän jahtaaminen sinunkin koirasi päivittäiseen rutiiniin? Eikö sinun käykin sääliksi näitä uutteria otuksia, joiden yrityksiä ei koskaan palkita? Tarjoamme sinulle nyt ainutlaatuisen mahdollisuuden osoittaa, kuinka paljon sinä välität tärkeästä ystävästäsi. Sinun ei tarvitse kuin kiinnittää tämä elegantti ja yksinkertainen väline koirasi vyötärölle, niin rakkaan lemmikkisi unelma voi vihdoin toteutua! Oivallinen lahjaidea kenelle tahansa koiranomistajalle! Kuvan koira ei sisälly toimitukseen.
-![kiinniottoväline]({{ "/assets/images/1.png" | prepend: site.baseurl }}){:width="300" .center-image }
+![kiinniottoväline]({{ "/assets/images/1.png" }}){:width="300" .center-image }
