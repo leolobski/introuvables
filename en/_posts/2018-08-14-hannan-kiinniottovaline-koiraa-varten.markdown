@@ -1,11 +1,11 @@
 ---
 layout: page_en
-title:  "Hännän kiinniottoväline koiraa varten"
+title:  "A tail catching device for a dog"
 categories: introuvables
 image: 1.png
-description: "Kuuluuko hännän jahtaaminen sinunkin koirasi päivittäiseen rutiiniin? Eikö sinun käykin sääliksi näitä uutteria otuksia, joiden yrityksiä ei koskaan palkita? Tarjoamme sinulle nyt ainutlaatuisen mahdollisuuden osoittaa, kuinka paljon sinä välität tärkeästä ystävästäsi. Sinun ei tarvitse kuin kiinnittää tämä elegantti ja yksinkertainen väline koirasi vyötärölle, niin rakkaan lemmikkisi unelma voi vihdoin toteutua! Oivallinen lahjaidea kenelle tahansa koiranomistajalle! Kuvan koira ei sisälly toimitukseen."
+description: "We all know chasing its tail constitutes part of the daily routine of any happy dog. Do you not pity these diligent creatures whose tail-catching efforts are always in vain? We now offer a unique opportunity to prove just how much you care for your beloved friend. All you need to do is to attach this elegant and simple device to the waist of your dog, and the dream of your dearest companion will finally come true! A perfect gift for any dog owner. The dog in the picture is not included in the delivery."
 translation-link: hannan-kiinniottovaline-koiraa-varten
 lang: en
 ---
-Kuuluuko hännän jahtaaminen sinunkin koirasi päivittäiseen rutiiniin? Eikö sinun käykin sääliksi näitä uutteria otuksia, joiden yrityksiä ei koskaan palkita? Tarjoamme sinulle nyt ainutlaatuisen mahdollisuuden osoittaa, kuinka paljon sinä välität tärkeästä ystävästäsi. Sinun ei tarvitse kuin kiinnittää tämä elegantti ja yksinkertainen väline koirasi vyötärölle, niin rakkaan lemmikkisi unelma voi vihdoin toteutua! Oivallinen lahjaidea kenelle tahansa koiranomistajalle! Kuvan koira ei sisälly toimitukseen.
+We all know chasing its tail constitutes part of the daily routine of any happy dog. Do you not pity these diligent creatures whose tail-catching efforts are always in vain? We now offer a unique opportunity to prove just how much you care for your beloved friend. All you need to do is to attach this elegant and simple device to the waist of your dog, and the dream of your dearest companion will finally come true! A perfect gift for any dog owner. The dog in the picture is not included in the delivery.
 ![kiinniottoväline]({{ "/assets/images/1.png" | prepend: site.baseurl }}){:width="300" .center-image }

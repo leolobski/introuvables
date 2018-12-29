@@ -1,11 +1,11 @@
 ---
 layout: page_en
-title:  "Jalaton tuoli ilman selkänojaa"
+title:  "A legless chair with no back"
 categories: introuvables
 image: 4.png
-description: "Yksinkertaisen nerokas muotoilu, joka tekee tämän tuolin säilyttämisestä suorastaan naurettavan helppoa."
+description: "A design ingenious in its simplicity makes this chair ideal for storage."
 translation-link: jalaton-tuoli-ilman-selkanojaa
 lang: en
 ---
-Yksinkertaisen nerokas muotoilu, joka tekee tämän tuolin säilyttämisestä suorastaan naurettavan helppoa.
+A design ingenious in its simplicity makes this chair ideal for storage.
 ![jalaton-tuoli]({{ "/assets/images/4.png" | absolute_url }}){:width="400" .center-image }

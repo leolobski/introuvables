@@ -1,11 +1,11 @@
 ---
 layout: page_en
-title:  "Vaakasuihku"
+title:  "Horizontal shower"
 categories: introuvables
 image: 3.png
-description: "Kokeiltuasi vaakasuihkua, tavalliseen ei ole paluuta. Säästää sekä tilaa että aikaa. Makuuhuoneelle ei enää ole tarvetta, kun nukkuminen hoituu kätevästi vaakasuihkussa. Ajastustoiminnon ansiosta voit aloittaa yöunesi jo suihkussa ollessasi! Tai mikä olisikaan parempi herätyskello kuin raikas suihku? Ehdoton hankinta sekä modernin yhteiskunnan menestyjälle että omaisuutta välttelevälle downshiftaajalle!"
+description: "Once you try horizontal shower, there is no going back to the ordinary one. It saves you both space and time. A bedroom is no longer needed, as you can conveniently sleep in the horizontal shower. Due to an in built timer, you can start your sleep while having a shower! Furthermore, can you imagine a better alarm than a refreshing shower? A must-have for an ambitious achiever as well as a down-shifter avoiding unnecessary property!"
 translation-link: vaakasuihku
 lang: en
 ---
-Kokeiltuasi vaakasuihkua, tavalliseen ei ole paluuta. Säästää sekä tilaa että aikaa. Makuuhuoneelle ei enää ole tarvetta, kun nukkuminen hoituu kätevästi vaakasuihkussa. Ajastustoiminnon ansiosta voit aloittaa yöunesi jo suihkussa ollessasi! Tai mikä olisikaan parempi herätyskello kuin raikas suihku? Ehdoton hankinta sekä modernin yhteiskunnan menestyjälle että omaisuutta välttelevälle downshiftaajalle!
+Once you try horizontal shower, there is no going back to the ordinary one. It saves you both space and time. A bedroom is no longer needed, as you can conveniently sleep in the horizontal shower. Due to an in built timer, you can start your sleep while having a shower! Furthermore, can you imagine a better alarm than a refreshing shower? A must-have for an ambitious achiever as well as a down-shifter avoiding unnecessary property!
 ![vaakasuihku]({{ "/assets/images/3.png" | absolute_url }}){:width="400" .center-image }
