@@ -7,5 +7,7 @@ description: "Convenient and effortless way to make sure children do not snack o
 translation-link: keksipurkki-josta-ei-saa-kekseja-ulos
 lang: en
 ---
+<font size="2"><i>Number of items in stock: 74</i></font><br>
+
 Convenient and effortless way to make sure children do not snack on the biscuits without a permission. Also ideal for losing weight! Made of extra strong glass.
 ![keksipurkki]({{ "/assets/images/6.png" | absolute_url }}){:width="200" .center-image }

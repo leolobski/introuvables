@@ -7,5 +7,7 @@ description: "A Phenomenon with a capital P. You do not want to miss out on this
 translation-link: vain-itseaan-kuvaava-kamera
 lang: en
 ---
+<font size="2"><i>Currently out of stock!</i></font><br>
+
 A Phenomenon with a capital P. You do not want to miss out on this one! A camera that completely redefines what a selfie is.
 ![kamera]({{ "/assets/images/10.png" | absolute_url }}){:width="400" .center-image }

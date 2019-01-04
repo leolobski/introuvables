@@ -7,5 +7,7 @@ description: "A design ingenious in its simplicity makes this chair ideal for st
 translation-link: jalaton-tuoli-ilman-selkanojaa
 lang: en
 ---
+<font size="2"><i>Number of items in stock: 27</i></font><br>
+
 A design ingenious in its simplicity makes this chair ideal for storage.
 ![jalaton-tuoli]({{ "/assets/images/4.png" | absolute_url }}){:width="400" .center-image }

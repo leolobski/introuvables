@@ -7,5 +7,7 @@ description: "Innovatiivinen tilaratkaisu, joka sopii ahtaimpiinkin wc-tiloihin.
 translation-link: kaksikerroksinen-wc-istuin
 lang: fi
 ---
+<font size="2"><i>Varastossa jäljellä: 8 kpl</i></font><br>
+
 Innovatiivinen tilaratkaisu, joka sopii ahtaimpiinkin wc-tiloihin. Unohtakaa erilliset vessat ja kopit, uusi, sosiaalinen vessassa käynnin muoto on vihdoin täällä! Tämä wc-istuin on myös aidon luonnonystävän valinta, uraauurtavan kerrosteknologian ansiosta istuin kuluttaa jopa puolet vähemmän vettä tavalliseen istuimeen verrattuna. Sopii oivallisesti myös työpaikan saniteettitiloihin, vessatauko ei ole enää pätevä syy tärkeän kokouksen keskeyttämiseen, eikä wc:n tarvitse enää olla työpaikan hierarkioista vapaa tila!
 ![wc-istuin]({{ "/assets/images/2.png" | absolute_url }}){:width="200" .center-image }
